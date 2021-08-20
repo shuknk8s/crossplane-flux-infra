@@ -211,4 +211,4 @@ cd ..
 
 rm -rf crossplane-flux
 
-k3d cluster delete upbound
+#k3d cluster delete upbound
